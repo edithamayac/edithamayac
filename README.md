@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**edithamayac/edithamayac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Hi, I’m Edith Amaya, a Business Intelligence Analyst with over 10 years of experience in hospitality and administrative operations. My background taught me how to analyze processes and communicate across teams. Today, I use tools like Tableau, SQL, and Excel to analyze and visualize data, improve workflows, and support decision-making.
+Hi 👋 I’m Edith Amaya, a Business Intelligence Analyst with over 10 years of experience in hospitality and administrative operations. My background taught me how to analyze processes and communicate across teams. Today, I use tools like Tableau, SQL, and Excel to analyze and visualize data, improve workflows, and support decision-making.
 
 🌱 I’m passionate about sustainability, technology, and meaningful data storytelling. Using analytics to help organizations make responsible and impactful decisions.
 
@@ -18,3 +11,10 @@ Hi, I’m Edith Amaya, a Business Intelligence Analyst with over 10 years of exp
 	•	LinkedIn: https://www.linkedin.com/in/edith-amaya-col5860/ 
 
 🌎 Open to remote collaboration and relocation opportunities in Florida, particularly in the Miami or Fort Lauderdale area and surroundings.
+
+
+<!--
+**edithamayac/edithamayac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
