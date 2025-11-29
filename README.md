@@ -8,7 +8,7 @@ Hi 👋 I’m Edith Amaya, a Business Intelligence Analyst with over 10 years of
 	•	I love nature, travel, and photography 📸 adventure keeps me inspired and balanced!
  
 📫 Let’s connect:
-	•	LinkedIn: https://www.linkedin.com/in/edith-amaya-col5860/ 
+	•	LinkedIn: https://www.linkedin.com/in/edith-amaya-col/
 
 🌎 Open to remote collaboration and relocation opportunities in Florida, particularly in the Miami or Fort Lauderdale area and surroundings.
 
