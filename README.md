@@ -2,8 +2,7 @@ Hi 👋 I’m Edith Amaya, a Business Intelligence Analyst with over 10 years of
 
 🌱 I’m passionate about travel and hospitality, helping people, technology, and meaningful data storytelling, using analytics to help organizations make responsible and impactful decisions.
 
-✨ Fun facts about me:
-	
+##✨ Fun facts about me:
 	•	I studied Tourism and Hospitality Management in Colombia 🇨🇴 where I am from!
 	•	I live in sunny Los Angeles, California, with my husband and our big black-and-white husky mix, Luna 🐾.
 	•	I love nature, travel, and photography 📸 adventure keeps me inspired and balanced!
