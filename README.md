@@ -5,7 +5,9 @@ Hi 👋 I’m Edith Amaya, a Business Intelligence Analyst with over 10 years of
 #✨ Fun facts about me:
 
 • I studied Tourism and Hospitality Management in Colombia 🇨🇴 where I am from!
-• I live in sunny Los Angeles, California, with my husband and our big black-and-white husky mix, Luna 🐾.
+
+• I live in sunny Los Angeles, California, with my husband and our big black-and-white husky mix, Luna 🐾
+
 • I love nature, travel, and photography 📸 
  
 📫 Let’s connect:
