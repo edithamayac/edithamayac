@@ -13,8 +13,6 @@ Hi 👋 I’m Edith Amaya, a Business Intelligence Analyst with over 10 years of
 📫 Let’s connect:
 	•	LinkedIn: https://www.linkedin.com/in/edith-amaya-col/
 
-🌎 Open to remote collaboration and relocation opportunities in Florida, particularly in the Miami or Fort Lauderdale area and surroundings.
-
 
 <!--
 **edithamayac/edithamayac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
