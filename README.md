@@ -1,4 +1,4 @@
-Hi 👋 I’m Edith Amaya, a Business Intelligence Analyst with over 10 years of experience in hospitality and administrative operations. My background taught me how to analyze processes and communicate across teams. Today, I use tools like Tableau, SQL, and Excel to analyze and visualize data, improve workflows, and support decision-making.
+Hi 👋 I’m Edith Amaya, a Customer Analyst with over 10 years of experience in hospitality and administrative operations. My background taught me how to analyze processes and communicate across teams. Today, I use tools like Tableau, SQL, and Excel to analyze and visualize data, improve workflows, and support decision-making.
 
 🌱 I’m passionate about travel and hospitality, helping people, technology, and meaningful data storytelling, using analytics to help organizations make responsible and impactful decisions.
 
